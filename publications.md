@@ -2,6 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
+video: true
 ---
 
 ## Journal publications
@@ -12,8 +13,8 @@ permalink: /publications/
 ## Selected media coverage
 
 * TV-coverage and interview at "Landesschau SWR" 
-    <video width="400">
-        <source src="https://github.com/cchwala/cchwala.github.io/blob/master/videos/interview_landesschau_swr_bw_2016-05-03.mp4">
+    <video width="400" controls>
+        <source src="/videos/interview_landesschau_swr_bw_2016-05-03.mp4">
     </video>
 * [Article at the Earth System Knowledge Platform (ESKP)](https://www.eskp.de/en/climate-change/mobile-radio-network-enables-rainfall-measurement-935812/) about the my research on the usage of commercial microwave links for rainfall estimation and the potential for developing countries 
 * [Article on www.deutschlandfunk.de](https://www.deutschlandfunk.de/messung-per-richtfunk-mobilfunkantennen-verraten-wo-es.676.de.html?dram:article_id=348697]) about
