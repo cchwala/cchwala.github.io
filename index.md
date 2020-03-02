@@ -15,7 +15,7 @@ title: Quick intro
         style="float: left;"
         hspace="20"
         alt="missing" 
-        width="100"
+        width="120"
     />
     </a>
 </figure>
@@ -26,7 +26,7 @@ title: Quick intro
 
 ## Research
 
- My main research field is remote sensing and hydrometeorology. I focus on improving rainfall observations by using new opportunistic sensors and via the combination of rainfall sensors. I also 
+ My main research field is remote sensing and hydrometeorology. I focus on improving rainfall observations by using new opportunistic sensors and via the combination of rainfall sensors. I combine these efforts with performing hydrological simulations for flood events in small complex catchments and support this research with dedicated field measurements campaigns. 
 
 
 
