@@ -24,9 +24,9 @@ title: Quick intro
 
  I did my PhD at KIT Campus Alpin in cooperation with the [Chair of High-Frequency Engineering at TU Munich](https://www.ei.tum.de/en/hft/home/) and graduated from the University of Augsburg in 2015.
 
-## Research
+## Research profile
 
- My main research field is remote sensing and hydrometeorology. I focus on improving rainfall observations by using new opportunistic sensors and via the combination of rainfall sensors. I combine these efforts with performing hydrological simulations for flood events in small complex catchments and support this research with dedicated field measurements campaigns. 
+ My main research field is remote sensing and hydrometeorology. I focus on improving rainfall observations by using new opportunistic sensors and via the combination of rainfall sensors. I combine these efforts with performing hydrological simulations for flood events in small complex catchments and support this research with dedicated field measurements campaigns.
 
 
 
