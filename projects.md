@@ -8,6 +8,8 @@ permalink: /projects/
 
 ### SpraiLINK (2020 - now, PI)
 
+### AgRAIN (2019 - now, PhD co-supervisor)
+
 ### HoWa-innovativ (2018 - now, Postdoc)
 
 ### RealPEP (2018 - now, PI)

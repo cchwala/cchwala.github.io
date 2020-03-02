@@ -16,7 +16,6 @@
 title: Christian Chwala
 email: christian.chwala@kit.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Some info here...
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cchwala
@@ -27,6 +26,14 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+ - research.md
+ - project.md
+ - team.md
+ - publications.md
+ - blog.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
