@@ -16,6 +16,8 @@ permalink: /team/
 * Thesis: Bayesian statistics and machine learning for commercial microwave link data processing
 * Project: RealPEP
 
+**[Nico Blettner](https://www.imk-ifu.kit.edu/Personen_Nico.Blettner.php)** (KIT and Uni Augsburg, co-supervision, 2020 - now)
+
 ### Co-workers
 
 **[Gerhard Smiatek](https://www.imk-ifu.kit.edu/staff_Gerhard_Smiatek.php)** (KIT)
