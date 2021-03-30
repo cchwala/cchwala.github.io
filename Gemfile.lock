@@ -259,12 +259,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 201)
-  jekyll-feed (~> 0.6)
-  kramdown (>= 2.3.0)
+  github-pages
   minima
   nokogiri (>= 1.11.0)
-  tzinfo-data
 
 BUNDLED WITH
    2.1.4
